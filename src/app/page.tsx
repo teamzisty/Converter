@@ -55,7 +55,7 @@ export default function Home() {
 
           <FadeIn delay={900} duration={700}>
             <footer className="mt-20">
-              <p className="text-neutral-500">Provided by <a href="https://zisty.dev" target="_blank" className="hover:underline">Zisty</a></p>
+              <p className="text-neutral-500">Provided by <a href="https://zisty.net" target="_blank" className="hover:underline">Zisty</a></p>
             </footer>
           </FadeIn>
         </div>
