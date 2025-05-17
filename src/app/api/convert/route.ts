@@ -43,9 +43,6 @@ export async function POST(req: NextRequest) {
     
     for (const payload of payloads) {
         console.log(payload);
-        // 本当にfromがcontentのtypeか確認
-        const { from, content, to } = payload;
-        
     }
 
 
